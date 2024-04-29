@@ -3,7 +3,7 @@
 1. pip install PyQt5
 2. pip install pyserial
 ## Usage
-python3 __main__.pyw
+python3 `__main__`.pyw
 
 ## About
 
