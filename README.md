@@ -4,3 +4,12 @@
 2. pip install pyserial
 ## Usage
 python3 __main__.pyw
+
+## About
+
+* This project `created from Voronez state universate` 
+The project `used`:
+`Gas chromatograph` with `katharometer`
+`Arduino mega`
+`Laptop` for testing the program
+`Raspberry pi4`
